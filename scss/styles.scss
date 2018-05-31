@@ -1,1 +1,57 @@
 @import "foundation-emails";
+
+.container {
+	background-color: #fff;
+}
+
+p {
+	color: #1A4258;
+	font-family: "tahoma", sans-serif;
+	font-size: 18px;
+	line-height: 27px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.gray {
+	background-color: #ECEEF0;
+}
+.blue {
+	background-color: #DFE6EB;
+}
+
+.white {
+	background-color: #ffffff;
+}
+
+.title {
+	font-size: 26px;
+	line-height: 40px;
+}
+
+.big-text {
+	font-size: 30px;
+	line-height: 42px;
+}
+
+.medium-text {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.small-text {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.nopd {
+	padding: 0!important;
+	margin: 0!important;
+}
+
+
+.logo {
+	margin: 0 auto;
+}
